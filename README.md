@@ -1,4 +1,4 @@
-## Exploratory-Data-analysis-911-dataset
+## Exploratory data analysis 911 dataset
 
 ##### This is an exploratory data analysis project on the 911.csv dataset.
 
